@@ -61,7 +61,7 @@ Deployment: Vercel / Netlify (if deployed)
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/rewear.git
+git clone https://github.com/nishanttcse/Rewear-Community-Clothing.git
 cd rewear
 npm install
 npm run dev
